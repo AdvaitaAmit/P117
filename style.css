@@ -1,0 +1,19 @@
+body{
+    background-color: #bed2fa;
+}
+
+#score-span{
+    font-size:large;
+    margin-left:100px;
+    float:left;
+}
+
+#timer-span{
+    font-size: large;
+    margin-right:100px;;
+    float:right;
+}
+
+#sketch-to-draw{
+    color: black;
+}
